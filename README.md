@@ -107,7 +107,3 @@ Este proyecto demuestra capacidad para:
 - Comunicar resultados de forma ejecutiva
 
 ---
-
-## 👩‍💻 Sobre mí
-
-Analista de Datos con experiencia en análisis financiero y operativo, enfocada en optimizar decisiones mediante métricas cuantitativas y evaluación estratégica de desempeño.
